@@ -610,3 +610,219 @@ console.error: "Could not write session state file " (new Error("", "(unknown mo
 console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
 console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
 console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+1615431780740	geckodriver	INFO	Listening on 127.0.0.1:59697
+1615431781007	geckodriver	INFO	Listening on 127.0.0.1:54899
+1615431781027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQvaRBM"
+1615431781727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKZOcW2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615431791143	Marionette	INFO	Listening on port 37741
+1615431791156	Marionette	INFO	Listening on port 39783
+1615431791246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615431791275	Marionette	ERROR	[18] No reply from Marionette:Register
+1615431791324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615431791346	Marionette	ERROR	[18] No reply from Marionette:Register
+1615432175007	geckodriver	INFO	Listening on 127.0.0.1:44219
+1615432175019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileskGTXm"
+1615432175434	geckodriver	INFO	Listening on 127.0.0.1:56331
+1615432175444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile99mhDJ"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432179901	Marionette	INFO	Listening on port 35641
+1615432180038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432180103	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432180337	Marionette	INFO	Listening on port 35535
+1615432180424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432180441	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432247359	geckodriver	INFO	Listening on 127.0.0.1:37077
+1615432247370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6j6552"
+1615432247773	geckodriver	INFO	Listening on 127.0.0.1:34943
+[GFX1-]: glxtest: libpci missing
+1615432248782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1vYdV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432251871	Marionette	INFO	Listening on port 42765
+1615432251980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432252049	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432253623	Marionette	INFO	Listening on port 42151
+1615432253740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432253755	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432395534	geckodriver	INFO	Listening on 127.0.0.1:33647
+1615432395549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4oNcqo"
+1615432396434	geckodriver	INFO	Listening on 127.0.0.1:34901
+1615432396460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKHoyub"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432401548	Marionette	INFO	Listening on port 43583
+1615432401623	Marionette	INFO	Listening on port 44645
+1615432401649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432401667	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432401742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432401799	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432436253	geckodriver	INFO	Listening on 127.0.0.1:44185
+1615432436282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCBh9DY"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432441462	Marionette	INFO	Listening on port 45151
+1615432441641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432441701	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432479858	geckodriver	INFO	Listening on 127.0.0.1:32987
+1615432479865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOLyWr9"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432483425	Marionette	INFO	Listening on port 36917
+1615432483697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432483714	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432901260	geckodriver	INFO	Listening on 127.0.0.1:50305
+1615432901272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQBzHnl"
+1615432902164	geckodriver	INFO	Listening on 127.0.0.1:36897
+[GFX1-]: glxtest: libpci missing
+1615432903180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0p9jjb"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432907726	Marionette	INFO	Listening on port 33023
+1615432908014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432908086	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432909509	Marionette	INFO	Listening on port 34919
+1615432909648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432909665	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432977929	geckodriver	INFO	Listening on 127.0.0.1:54747
+1615432978310	geckodriver	INFO	Listening on 127.0.0.1:38185
+1615432978348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNi3sKP"
+1615432978946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPUXmg"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615432984875	Marionette	INFO	Listening on port 33037
+1615432985001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432985052	Marionette	ERROR	[15] No reply from Marionette:Register
+1615432986555	Marionette	INFO	Listening on port 38271
+1615432986678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615432986732	Marionette	ERROR	[15] No reply from Marionette:Register
+1615433040503	geckodriver	INFO	Listening on 127.0.0.1:35689
+1615433040529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesJCJig"
+1615433041701	geckodriver	INFO	Listening on 127.0.0.1:59141
+1615433041720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKrtqR1"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615433052228	Marionette	INFO	Listening on port 38183
+1615433052502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615433052603	Marionette	ERROR	[15] No reply from Marionette:Register
+1615433054852	Marionette	INFO	Listening on port 39807
+1615433055442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615433055520	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615434602984	geckodriver	INFO	Listening on 127.0.0.1:39437
+1615434602997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVaMfi9"
+1615434603382	geckodriver	INFO	Listening on 127.0.0.1:47297
+1615434603404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenWua83"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615434607795	Marionette	INFO	Listening on port 36197
+1615434607934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615434607993	Marionette	ERROR	[15] No reply from Marionette:Register
+1615434608973	Marionette	INFO	Listening on port 43569
+1615434609085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615434609106	Marionette	ERROR	[15] No reply from Marionette:Register
+1615435331845	geckodriver	INFO	Listening on 127.0.0.1:33827
+1615435331865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT9lVAl"
+1615435332443	geckodriver	INFO	Listening on 127.0.0.1:47537
+1615435332459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGnkZm"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615435338792	Marionette	INFO	Listening on port 40051
+1615435338954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615435339025	Marionette	ERROR	[15] No reply from Marionette:Register
+1615435339044	Marionette	INFO	Listening on port 35645
+1615435339212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615435339248	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615436203070	geckodriver	INFO	Listening on 127.0.0.1:33163
+1615436203108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBUHImz"
+[GFX1-]: glxtest: libpci missing
+1615436204258	geckodriver	INFO	Listening on 127.0.0.1:34203
+1615436208858	geckodriver	INFO	Listening on 127.0.0.1:44557
+1615436208868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU3Dot9"
+1615436209319	geckodriver	INFO	Listening on 127.0.0.1:57229
+1615436209346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemhtf8G"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615436214510	Marionette	INFO	Listening on port 41637
+1615436214604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436214693	Marionette	ERROR	[15] No reply from Marionette:Register
+1615436214920	Marionette	INFO	Listening on port 33445
+1615436215044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436215074	Marionette	ERROR	[15] No reply from Marionette:Register
+1615436286587	geckodriver	INFO	Listening on 127.0.0.1:43211
+1615436286596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWRnL7F"
+1615436287030	geckodriver	INFO	Listening on 127.0.0.1:58907
+1615436287040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileianpfE"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615436291319	Marionette	INFO	Listening on port 39279
+1615436291532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436291590	Marionette	ERROR	[15] No reply from Marionette:Register
+1615436292418	Marionette	INFO	Listening on port 41063
+1615436292546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436292600	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1615436518011	geckodriver	INFO	Listening on 127.0.0.1:45521
+1615436518023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8IZEd3"
+1615436518478	geckodriver	INFO	Listening on 127.0.0.1:60485
+[GFX1-]: glxtest: libpci missing
+1615436519493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ1DvP8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615436523230	Marionette	INFO	Listening on port 46871
+1615436523347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436523411	Marionette	ERROR	[15] No reply from Marionette:Register
+1615436525012	Marionette	INFO	Listening on port 40413
+1615436525059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436525083	Marionette	ERROR	[18] No reply from Marionette:Register
+1615436688181	geckodriver	INFO	Listening on 127.0.0.1:39701
+1615436688545	geckodriver	INFO	Listening on 127.0.0.1:51643
+1615436688562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef7D7kS"
+1615436689185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCjGTu"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615436694640	Marionette	INFO	Listening on port 43057
+1615436694761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436694812	Marionette	ERROR	[15] No reply from Marionette:Register
+1615436695643	Marionette	INFO	Listening on port 43199
+1615436696077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615436696166	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1615436724551	geckodriver	INFO	Listening on 127.0.0.1:49237
+1615436724958	geckodriver	INFO	Listening on 127.0.0.1:57901
+1615436740906	geckodriver	INFO	Listening on 127.0.0.1:41617
+1615436741306	geckodriver	INFO	Listening on 127.0.0.1:39813
