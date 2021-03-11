@@ -9,6 +9,7 @@ python = "^3.8"
 selenium = "^3.141.0"
 python-dotenv = "^0.15.0"
 flask = "^1.1.2"
+bottle = "^0.12.19"
 
 [tool.poetry.dev-dependencies]
 
