@@ -117,6 +117,6 @@ def func2():
 
 if __name__ == '__main__':
     p1 = Process(target=func1)
-    p1.start()
+    #p1.start()
     p2 = Process(target=func2)
     p2.start()

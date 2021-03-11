@@ -959,3 +959,55 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1615439758399	Marionette	WARN	TLS certificate errors will be ignored for this session
 1615439758447	Marionette	ERROR	[15] No reply from Marionette:Register
 JavaScript error: , line 0: uncaught exception: Object
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615442681987	geckodriver	INFO	Listening on 127.0.0.1:58019
+1615442682996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei5GGfB"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615442687988	Marionette	INFO	Listening on port 36099
+1615442688110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615442688170	Marionette	ERROR	[15] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615446284138	geckodriver	INFO	Listening on 127.0.0.1:48469
+1615446284151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo4FjHm"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615446290115	Marionette	INFO	Listening on port 44993
+1615446290288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615446290361	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615449884715	geckodriver	INFO	Listening on 127.0.0.1:53175
+1615449884739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSH1b7L"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615449890208	Marionette	INFO	Listening on port 34265
+1615449890367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615449890433	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: disk I/O error
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: UnknownError: Could not open the file at /tmp/rust_mozprofileSH1b7L/crashes/store.json.mozlz4.tmp for writing
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+1615450081120	geckodriver	INFO	Listening on 127.0.0.1:39941
+1615453683794	geckodriver	INFO	Listening on 127.0.0.1:36853
+1615457286607	geckodriver	INFO	Listening on 127.0.0.1:41107
+1615460895269	geckodriver	INFO	Listening on 127.0.0.1:59885
+1615464488192	geckodriver	INFO	Listening on 127.0.0.1:49547
+1615468091307	geckodriver	INFO	Listening on 127.0.0.1:33401
+1615468637654	geckodriver	INFO	Listening on 127.0.0.1:55179
+1615468676340	geckodriver	INFO	Listening on 127.0.0.1:39885
