@@ -932,3 +932,30 @@ JavaScript error: , line 0: uncaught exception: Object
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1615439069420	geckodriver	INFO	Listening on 127.0.0.1:52645
+1615439069439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4ZtzI"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615439073535	Marionette	INFO	Listening on port 37969
+1615439073642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615439073677	Marionette	ERROR	[15] No reply from Marionette:Register
+1615439079500	geckodriver	INFO	Listening on 127.0.0.1:33899
+1615439079537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEm0Nt0"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615439086498	Marionette	INFO	Listening on port 35685
+1615439086668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615439086696	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615439754410	geckodriver	INFO	Listening on 127.0.0.1:55895
+1615439754423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5M51k"
+[GFX1-]: glxtest: libpci missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615439758283	Marionette	INFO	Listening on port 43157
+1615439758399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615439758447	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object

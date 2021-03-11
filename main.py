@@ -103,8 +103,8 @@ def func2():
                             scrapedNames.append(tempindex2)
                             with open('data.html', 'a') as filehandle:
                                 filehandle.write('<img src="' + tempindex1 + '">' +
-                                                 '</img><span>' + tempindex2 +
-                                                 '</span><span>' + tempindex3 +
+                                                 '</img><span><b>' + tempindex2 +
+                                                 '</b></span><span>&nbsp;&nbsp;' + tempindex3 +
                                                  '</span><br><br>')
                             tempindex1 = ''
                             tempindex2 = ''
